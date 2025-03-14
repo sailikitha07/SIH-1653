@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 27-02-2025
-## Register Number: 212223100024
-## Name: Yagnesh Reddy
+# Date: 14-03-2025
+## Register Number: 212224230046
+## Name: Sai likitha
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -23,11 +23,10 @@ Ministry of Defence
 
 ## Proposed Solution / Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/f7224368-ef3c-407f-af96-86e87738628a)
+![architechture](https://github.com/user-attachments/assets/53e45174-97f0-4fe2-bc68-f5886af97060)
 
 ## Use Cases
-![Uploading image.png…]()
-
+![cases](https://github.com/user-attachments/assets/b2540be4-f73b-4238-8301-b20ce31dd50b)
 
 ## Technology Stack
 React.js
